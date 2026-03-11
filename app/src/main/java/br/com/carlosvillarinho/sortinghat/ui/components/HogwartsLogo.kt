@@ -13,7 +13,7 @@ import br.com.carlosvillarinho.sortinghat.ui.theme.SortingHatTheme
 
 @Composable
 fun HogwartsLogo() {
-    Text("Harry Potter",
+    Text("HarryPotter",
         style = TextStyle(fontSize = 96.sp,
                           color = Color.White,
                           fontFamily = FontFamily(Font(resId = R.font.harryp__))
